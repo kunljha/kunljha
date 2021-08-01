@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Kunal Jha | Twitter" width="25px" src="./images/icons8-linkedin.svg" />][twitter]
-[<img align="left" alt="Kunal Jha | LinkedIn" width="25px" src="./images/icons8-twitter.svg" />][linkedin]
+[<img align="left" alt="Kunal Jha | Twitter" width="30px" src="./images/icons8-twitter.svg" />][twitter]
+[<img align="left" alt="Kunal Jha | LinkedIn" width="30px" src="./images/icons8-linkedin.svg" />][linkedin]
 
 <br />
 

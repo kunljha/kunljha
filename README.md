@@ -1,61 +1,17 @@
-<h2 style="text-align:center">Hello there, My name is Kunal Jha 👋</h2>
+<h1 align="center">Hi 👋, I'm Kunal</h1>
+<h3 align="center">I'm a Web Development Learner</h3>
 
-<h1 style="text-align:center">I'm a Web Development Learner :</h1>
+<p align="left"> <a href="https://twitter.com/kunljha" target="blank"><img src="https://img.shields.io/twitter/follow/kunljha?logo=twitter&style=for-the-badge" alt="kunljha" /></a> </p>
 
-- 👨‍💻 My key skillset includes JavaScript, React and Node.js & Express.
-- 🌟 I really enjoy JavaScript programming language due to its wide domains where it is used.
-- 🔥 I’m looking to collaborate on Open Source Projects that involves JavaScript, React and MERN projects.
-- 🎶 Other than Web Dev I like listening to music and watching movies of Thriller and Science Fiction genres.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kunljha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunljha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunljha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunljha" height="30" width="40" /></a>
+</p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-### Connect with Me:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunljha&show_icons=true&locale=en&layout=compact" alt="kunljha" /></p>
 
-<div style="display: flex;align-items:center">
-
-<a href="https://github.com/kunljha">
-<img align="left" alt="Kunal Jha | GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="margin-right: 15px"/>
-</a>
-<img align="left" alt="Kunal Jha | Twitter" width="40px" src="./images/twitter.svg" style="margin-right: 15px"/>
-<img align="left" alt="Kunal Jha | LinkedIn" width="40px" src="./images/linkedin.svg" style="margin-right: 15px"/>
-</div>
-
-<br />
-<br />
-
-### Languages and Tools:
-
-<div style="margin-bottom: 180px">
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin: 8px 8px" />
-
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin: 8px 8px"/>
-
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin: 8px 8px"/>
-
-<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="margin: 8px 8px"/>
-
-<img align="left" alt="Bootstrap" width="40px" src="./images/bootstrap.svg" style="margin: 8px 8px"/>
-
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin: 8px 8px"/>
-
-<img align="left" alt="ReactJS" width="40px" src="./images/react.svg" style="margin: 8px 8px"/>
-
-<img align="left" alt="NodeJS" width="40px" src="./images/nodejs.svg" style="margin: 8px 8px"/>
-
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin: 8px 8px"/>
-
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="margin: 8px 8px"/>
-
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin: 8px 8px"/>
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunljha)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kunljha)
-
-<br />
-<br />
-
-[github]: https://github.com/kunljha
-[twitter]: https://twitter.com/kunljha
-[linkedin]: https://www.linkedin.com/in/kunljha/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunljha&" alt="kunljha" /></p>

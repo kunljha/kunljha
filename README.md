@@ -14,5 +14,3 @@
 
 <br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunljha&show_icons=true&locale=en&layout=compact" alt="kunljha" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunljha&" alt="kunljha" /></p>

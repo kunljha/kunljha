@@ -1,7 +1,8 @@
 # 💫About Me :
 
-💻 I am Fullstack Web Developer. I work on React.js, MERN stack
-and related technologies.
+### Hi 👋, My name is Kunal Jha. I am a Fullstack Web Developer. I primarily work on React.js, MERN stack
+
+### and related technologies 💻
 
 ## 🌐Socials
 
